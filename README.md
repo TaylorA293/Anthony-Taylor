@@ -1,4 +1,4 @@
-## Anthony-Taylor
+## Anthony Taylor
 
 ### Data Sources and Project Ideas:
 
