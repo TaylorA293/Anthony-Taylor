@@ -4,11 +4,11 @@
 
 - **Our World in Data**
   - **Link:** [https://ourworldindata.org/](https://ourworldindata.org/grapher/population-with-un-projections?tab=table&time=earliest..2062)
-  - **Description:** A large repository of global datasets about health, population, economics, and environment.
+  - **Description:** A large repository of global datasets about Health, Population, Economics, and Environment.
   - **Project Idea:** Use the population of different countries and watch how they grow or fall will their GDP.
   <br><br>
 - **NOAA Climate Data**
-  - **Link:** [https://www.ncei.noaa.gov/]([https://www.ncei.noaa.gov/](https://www.climate.gov/maps-data/data-snapshots/data-source/temperature-us-monthly-average?=Temperature))
+  - **Link:** [https://www.ncei.noaa.gov/](https://www.climate.gov/maps-data/data-snapshots/data-source/temperature-us-monthly-average?=Temperature)
   - **Description:** Has many Weather, Ocean, and Climate datasets.
   - **Project Idea:** Can analyze long-term temperature and precipitation due to global warming.
     <br><br>
