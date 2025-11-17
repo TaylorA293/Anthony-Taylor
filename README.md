@@ -40,3 +40,4 @@ body {
   
 ## Where's Schueller?
 <iframe src="schueller_map2.html" style="width:100%; height:1000px; border:none;"></iframe>
+<iframe src="schueller_map.html" style="width:100%; height:1000px; border:none;"></iframe>
