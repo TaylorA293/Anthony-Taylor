@@ -29,4 +29,4 @@
   <br><br>
   
 ## Where's Schueller?
-<iframe src="schueller_map.html" width="100%" height="600px"></iframe>
+<iframe src="schueller_map2.html" width="100%" height="600px"></iframe>
